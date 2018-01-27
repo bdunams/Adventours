@@ -1,0 +1,19 @@
+{
+  "name": "adventours",
+  "version": "1.0.0",
+  "description": "A destination tours application",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdunams/Adventours.git"
+  },
+  "author": "Brian Dunams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdunams/Adventours/issues"
+  },
+  "homepage": "https://github.com/bdunams/Adventours#readme"
+}
